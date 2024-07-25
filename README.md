@@ -1,6 +1,8 @@
 # Review Site Frontend
 
-**Type of Review Site:** Movies  
-**Frontend Tool Choice:** Vue.js
+## Frontend Framework: Vue.js
 
-This repository contains the frontend part of the Review Site project. The frontend is built with Vue.js and consumes data from a Strapi Headless CMS backend.
+### Setup Instructions
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm run serve` to start the development server.
